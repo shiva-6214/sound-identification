@@ -1,0 +1,17 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    font-style: italic;
+    background-color: rgb(255, 188, 163);
+}
+
+.copy_right_footer {
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    padding-bottom: 5px;
+    background-color: white;
+    text-shadow: 5px 5px 5px blue;
+}
